@@ -1,4 +1,4 @@
-###Advanced Regression Assignment
+# Advanced Regression Assignment
 
 Predicting house prices using advanced regression techniques such as Ridge and Lasso.
 
@@ -8,8 +8,8 @@ The company is looking at prospective properties to buy to enter the market. Thi
 
 The company wants to know: 
 
--Which variables are significant in predicting the price of a house? 
+- Which variables are significant in predicting the price of a house? 
 
--How well those variables describe the price of a house?
+- How well those variables describe the price of a house?
 
 By employing GridSearchCV, the model systematically identifies the optimal lambda values for determining house prices through Ridge and Lasso regression. This meticulous approach allows for an automated search across a predefined hyperparameter grid, enabling the model to fine-tune lambda and optimize its predictive performance in the context of regression
